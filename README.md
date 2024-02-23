@@ -32,6 +32,6 @@ However, I'm also intensively exploring such topics like (among other things): \
 
 ## My GitHub Stats
 
-<a href="https://github.com/piomin">
+<a href="https://github.com/sarvesh27sharma/sarvesh">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvesh27sharma&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="My github stats"/>
 </a>
